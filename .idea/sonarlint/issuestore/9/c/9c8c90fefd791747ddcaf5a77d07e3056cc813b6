@@ -1,0 +1,20 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›ð°üÿÿÿÿ8¦Å üù1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¥³­8©Å üù1
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò³”Ù8©Å üù1
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÐÆµ8ªÅ üù1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è‹Ìú8°Å üù1
+7
+java:S1220""Move this file to a named package.8¸Å üù1
+q
+java:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(´üË®øÿÿÿÿ8ÞÈ üù1
+L	java:S106"+Replace this use of System.out by a logger.(õÀŽ¥ÿÿÿÿÿ8ÊÉ üù1
+L	java:S106 "+Replace this use of System.out by a logger.(Á×Ûþÿÿÿÿ8áÉ üù1
+G	java:S106+"+Replace this use of System.err by a logger.(„¯–Ï8ôÉ üù1
+L	java:S106."+Replace this use of System.err by a logger.(ÙÞÆ¸úÿÿÿÿ8öÉ üù1
+G	java:S106B"+Replace this use of System.out by a logger.(…‹¥•8ƒÊ üù1
+L	java:S106G"+Replace this use of System.out by a logger.(‡Â°Øÿÿÿÿÿ8‡Ê üù1
+G	java:S106H"+Replace this use of System.out by a logger.(Ê¥ †8ˆÊ üù1
+L	java:S106L"+Replace this use of System.out by a logger.(ÖèŒÃúÿÿÿÿ8ŽÊ üù1
+L	java:S106M"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ê üù1
+G	java:S106O"+Replace this use of System.out by a logger.(³¼ÅÓ8‘Ê üù1
